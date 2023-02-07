@@ -9,5 +9,6 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
-Welcome to our Travel site at the end of file.
+
 ![travel-website](/preview.png)
+Welcome to our Travel site
